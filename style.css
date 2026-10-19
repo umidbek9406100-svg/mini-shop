@@ -1,0 +1,57 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #101827;
+  color: white;
+}
+
+.app {
+  max-width: 420px;
+  margin: 20px auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+.subtitle {
+  color: #aab6ca;
+}
+
+.product {
+  margin-top: 30px;
+  padding: 24px;
+  background: #1e293b;
+  border-radius: 20px;
+}
+
+.emoji {
+  font-size: 65px;
+}
+
+.product p {
+  color: #b9c6d8;
+}
+
+button {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 12px;
+  background: #38bdf8;
+  color: #101827;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#message {
+  margin-top: 20px;
+  color: #38bdf8;
+}
